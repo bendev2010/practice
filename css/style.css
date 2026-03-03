@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+
+div.card {
+    height: 120px;
+    width: 80px;
+    
+}
