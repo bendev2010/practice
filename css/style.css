@@ -13,6 +13,7 @@ nav {
     height: 4rem;
     display: grid;
     grid-template-areas: "logo navlist . iconlist";
+    padding: 5px 25px;
 }
 
 nav.logo {
